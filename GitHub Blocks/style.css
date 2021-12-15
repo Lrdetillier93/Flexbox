@@ -1,0 +1,30 @@
+*{
+    margin: 10px;
+    padding: 10px;
+}
+
+.row1{
+    background-color: darksalmon;
+    width: 1000px;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.row2{
+    background-color: mediumpurple;
+    width: 1000px;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.row3{
+    background-color: powderblue;
+    width: 1000px;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+}
+img{
+    height: 200px
+}
